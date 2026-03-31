@@ -44,7 +44,7 @@ For a deep dive into my case studies, patents, and full journey:
 ---
 
 ## ⚡ Engineering Stats
-![H. Medina's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmedinas&show_icons=true&theme=transparent&hide_border=true&title_color=007acc)
+![H. Medina's GitHub stats](https://www.hmedinas.es/pages/tech-stack.html)
 
 ---
 
