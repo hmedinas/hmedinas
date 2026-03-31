@@ -54,8 +54,9 @@ For a deep dive into my case studies, patents, and full journey:
 ---
 
 ## ⚡ Engineering Stats
-![H. Medina's Top Langs](https://www.hmedinas.es/pages/tech-stack.html)
+*Note: Private contributions are enabled to reflect real-world engineering activity.*
 
+![Top Langs](https://www.hmedinas.es/pages/tech-stack.html)
 ---
 
 <p align="center">
