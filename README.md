@@ -1,43 +1,55 @@
 # Hi, I'm H. Medina 👋
-
-### Full Stack Developer | Building digital solutions for the real world.
+### R&D Team Leader | Software Architect | Logistics & Compliance Expert
 
 ---
 
 ## 🚀 About Me
-I specialize in building high-performance web applications using the **Modern Web Stack**. While my daily code often lives in private repositories for enterprise clients, my passion for engineering is reflected in every line I write.
+I am a **Systems Architect** and **R&D Lead** specializing in high-availability ecosystems and mission-critical logistics. My expertise lies at the intersection of complex international regulations (IATA/SITA/Customs) and cutting-edge engineering.
 
-* 🌍 Based in Spain.
-* 💻 Focused on **TypeScript, React, Next.js & Node.js**.
-* 🛠️ Expert in creating scalable architectures and clean UI/UX.
+As the creator of the **SIOP** (Patented) and **SYS-Warehouse** platforms, I transform dense fiscal and operational requirements into scalable, high-performance software solutions.
 
----
-
-## 📊 Technical Soul
-Although my GitHub activity might look quiet due to **Private Enterprise Projects**, here is my core stack:
-
-| Frontend | Backend | Tools |
-| :--- | :--- | :--- |
-| React / Next.js | Node.js / Express | Docker / AWS |
-| Tailwind CSS | PostgreSQL / MongoDB | Git / CI-CD |
-| TypeScript | REST & GraphQL | Unit Testing |
+* 🌍 Based in **Madrid, Spain**.
+* 🏗️ **Author & Patent Holder:** SIOP (Integral Operations System).
+* 🛡️ **Product Lead:** SYS-Warehouse Ecosystem (AIFA, Mexico).
+* ⚙️ **Innovation:** Expert in Blockchain (Hyperledger), IoT, and System Hardening.
 
 ---
 
-## 🔍 Looking for my full portfolio?
-I keep my most detailed case studies, professional journey, and contact information on my official website.
+## 📊 Technical Ecosystem & Stack
+*Expertise in building mission-critical systems using multi-paradigm technologies.*
 
+| **Backend & Cloud** | **Frontend & Mobile** | **Databases & Data** | **Specialized Tech** |
+| :--- | :--- | :--- | :--- |
+| **Node.js** / Express | **Vue.js** / **Nuxt** | **SQL Server** / **Oracle** | **Blockchain** (Hyperledger) |
+| **Python** / Go | **Flutter** (Mobile) | **PostgreSQL** / **MySQL** | **IoT** (MQTT / AMQP) |
+| Microservices / Docker | **TypeScript** / JS | MongoDB / Redis | **RabbitMQ** / Kafka |
+| API Design / Security | UI/UX Performance | Data Integrity / ETL | **Linux Hardening** / P2P |
+
+---
+
+## 🏆 Key Projects & Intellectual Property
+* 📦 **SYS-Warehouse:** Lead Architect of the core logistics engine for the **AIFA Airport** (Mexico).
+* 🛡️ **SIOP (Patented):** Enterprise ERP for automated AWB/BL management and global customs compliance.
+* 📦 **Smart Lockers:** Network architecture for national logistics (Correos & El Corte Inglés).
+* ⛓️ **Industrial Blockchain:** R&D Leadership for **Nexplore (Joint Venture with IBM)**.
+
+---
+
+## 🔍 Professional Portfolio
+While my GitHub activity reflects my personal R&D, my professional core lives in **Private Enterprise Repositories** under strict NDAs for global clients like IATA, Coca-Cola, and Government Agencies.
+
+For a deep dive into my case studies, patents, and full journey:
 👉 **[Visit hmedinas.es](https://hmedinas.es)**
 
 ---
 
-## ⚡ GitHub Stats
+## ⚡ Engineering Stats
 ![H. Medina's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmedinas&show_icons=true&theme=transparent&hide_border=true&title_color=007acc)
 
 ---
 
 <p align="center">
-  <a href="https://hmedinas.es">Website</a> •
-  <a href="https://linkedin.com/in/TU_LINKEDIN">LinkedIn</a> •
-  <a href="mailto:tu@email.com">Email</a>
+  <a href="https://hmedinas.es">🌐 Website</a> • 
+  <a href="https://linkedin.com/in/TU_LINKEDIN">🔗 LinkedIn</a> • 
+  <a href="mailto:tu@email.com">📧 Email</a>
 </p>
