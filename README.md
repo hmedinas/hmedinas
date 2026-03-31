@@ -50,6 +50,6 @@ For a deep dive into my case studies, patents, and full journey:
 
 <p align="center">
   <a href="https://hmedinas.es">🌐 Website</a> • 
-  <a href="https://linkedin.com/in/TU_LINKEDIN">🔗 LinkedIn</a> • 
-  <a href="mailto:tu@email.com">📧 Email</a>
+  <a href="https://linkedin.com/in/hmedinas">🔗 LinkedIn</a> • 
+  <a href="mailto:hugo.medinas@outlook.com">📧 Email</a>
 </p>
