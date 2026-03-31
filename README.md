@@ -21,7 +21,7 @@ As the creator of the **SIOP** (Patented) and **SYS-Warehouse** platforms, I tra
 | **Backend & Cloud** | **Frontend & Mobile** | **Databases & Data** | **Specialized Tech** |
 | :--- | :--- | :--- | :--- |
 | **Node.js/ Net** / Express | **Vue.js** / **Nuxt** | **SQL Server** / **Oracle** | **Blockchain** (Hyperledger) |
-| **Python/ C# ** / Go | **Flutter** (Mobile) | **PostgreSQL** / **MySQL** | **IoT** (MQTT / AMQP) |
+| **Python/ C#** / Go | **Flutter** (Mobile) | **PostgreSQL** / **MySQL** | **IoT** (MQTT / AMQP) |
 | Microservices / Docker | **TypeScript** / JS | MongoDB / Redis | **RabbitMQ** / Kafka |
 | API Design / Security | UI/UX Performance | Data Integrity / ETL | **Linux Hardening** / P2P |
 
