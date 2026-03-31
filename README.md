@@ -15,6 +15,16 @@ As the creator of the **SIOP** (Patented) and **SYS-Warehouse** platforms, I tra
 
 ---
 
+## 🛡️ Engineering Excellence & Standards
+*My professional code follows strict enterprise-grade principles to ensure security, scalability, and maintainability.*
+
+* 🏗️ **Clean Architecture & SOLID:** Designing modular systems built for evolution and testability.
+* 🔒 **Security First:** Implementation of System Hardening, Data Integrity (AES/RSA), and OAuth2 compliance.
+* 🚀 **High-Availability:** Experience building Event-Driven architectures (RabbitMQ/Kafka) for 24/7 operations.
+* ⚖️ **Global Compliance:** Expert in aligning technical infrastructure with international regulations (IATA, e-freight, and Fiscal Laws).
+
+---
+
 ## 📊 Technical Ecosystem & Stack
 *Expertise in building mission-critical systems using multi-paradigm technologies.*
 
@@ -44,7 +54,7 @@ For a deep dive into my case studies, patents, and full journey:
 ---
 
 ## ⚡ Engineering Stats
-![H. Medina's GitHub stats](https://www.hmedinas.es/pages/tech-stack.html)
+![H. Medina's Top Langs](https://www.hmedinas.es/pages/tech-stack.html)
 
 ---
 
